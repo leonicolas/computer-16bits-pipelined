@@ -152,10 +152,6 @@ bit 3 - counter direction (0 - up | 1 - down)</string>
           <string>Label</string>
           <string>ovf</string>
         </entry>
-        <entry>
-          <string>Bits</string>
-          <int>16</int>
-        </entry>
       </elementAttributes>
       <pos x="220" y="100"/>
     </visualElement>
